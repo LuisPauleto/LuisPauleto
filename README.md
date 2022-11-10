@@ -1,9 +1,8 @@
 Olá! Eu sou o Luis Pauleto 👋
 
 - 🔭 Hoje tenho conhecimento em Front-End
-- 🌱 Atualmente, estudo Análise e Desenvolvimento de Sistemas e cursando React Native.
-- 😄 Pronome: Ele/Dele
-
+- 🌱 Atualmente, estudo Análise e Desenvolvimento de Sistemas
+- 
 <div align="center">
   <a href="https://github.com/LuisPauleto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisPauleto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
