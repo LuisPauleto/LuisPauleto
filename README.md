@@ -17,7 +17,7 @@
   <img align="center" alt="LuisPauleto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LuisPauleto-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="LuisPauleto-PowerBi" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
-  <img align="center" alt="LuisPauleto-MachineLearning" height="30" width="40" src="https://icons8.com/icon/61864/artificial-intelligence">
+  
   
   
 </div>
