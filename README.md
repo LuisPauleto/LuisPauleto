@@ -1,4 +1,4 @@
-  <i class="fa-solid fa-image-portrait"></i> Olá! Eu sou o Luis Pauleto 👋
+  <img align="center" alt="LuisPauleto-Js" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/abstract.svg"> Olá! Eu sou o Luis Pauleto 👋
 
 - <i class="fa-solid fa-brain" style="color: black"></i> Hoje tenho conhecimento em desenvolvimento WEB, Data visualization, Python, Linguagem C, Machine Learning, Clusterização, Regressão Linear.
 - <i class="fa-solid fa-book" style="color: black"></i> Atualmente, estudo Análise e Desenvolvimento de Sistemas pela Universidade São Francisco em Itatiba-SP
