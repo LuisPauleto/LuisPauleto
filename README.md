@@ -1,8 +1,8 @@
- <i class="fa-solid fa-image-portrait"></i> Olá! Eu sou o Luis Pauleto 👋
+  <i class="fa-solid fa-image-portrait"></i> Olá! Eu sou o Luis Pauleto 👋
 
-- <i class="fa-solid fa-brain" style="color: white"></i> Hoje tenho conhecimento em desenvolvimento WEB, Data visualization, Python, Linguagem C, Machine Learning, Clusterização, Regressão Linear.
-- <i class="fa-solid fa-book" style="color: white"></i> Atualmente, estudo Análise e Desenvolvimento de Sistemas pela Universidade São Francisco em Itatiba-SP
-- <i class="fa-solid fa-computer" style="color: white"></i>Estudo também para me tornar Cientista de Dados pela Escola DNC(Dinamica Treinamentos)
+- <i class="fa-solid fa-brain" style="color: black"></i> Hoje tenho conhecimento em desenvolvimento WEB, Data visualization, Python, Linguagem C, Machine Learning, Clusterização, Regressão Linear.
+- <i class="fa-solid fa-book" style="color: black"></i> Atualmente, estudo Análise e Desenvolvimento de Sistemas pela Universidade São Francisco em Itatiba-SP
+- <i class="fa-solid fa-computer" style="color: black"></i>Estudo também para me tornar Cientista de Dados pela Escola DNC(Dinamica Treinamentos)
 
 <div align="center">
   <a href="https://github.com/LuisPauleto">
