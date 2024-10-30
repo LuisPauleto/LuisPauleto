@@ -2,8 +2,7 @@
 
 - <i class="fa-solid fa-brain" style="color: black"></i> Hoje tenho conhecimento em desenvolvimento WEB, Data visualization, Python, Linguagem C, Machine Learning, Clusterização, Regressão Linear.
 - <i class="fa-solid fa-book" style="color: black"></i> Atualmente, estudo Análise e Desenvolvimento de Sistemas pela Universidade São Francisco em Itatiba-SP
-- <i class="fa-solid fa-computer" style="color: black"></i>Estudo também para me tornar Cientista de Dados pela Escola DNC(Dinamica Treinamentos)
-
+- <i class="fa-solid fa-computer" style="color: black"></i>Certificado em Ciência de Dados pela Escola Dinamica Group (DNC Treinamentos)
 <div align="center">
   <a href="https://github.com/LuisPauleto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisPauleto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
